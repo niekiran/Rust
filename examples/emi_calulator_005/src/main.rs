@@ -2,6 +2,7 @@ use std::io;
 
 /*
     EMI calculator
+    Fix all TODOs
 */
 
 fn main() {
