@@ -1,3 +1,9 @@
+/* Use a match statement to check the values of the tuple against several different patterns, 
+each of which corresponds to a specific action to take.
+If the second item in the tuple is negative, the code prints a message indicating that the second item is negative and takes "action 1".
+If both items in the tuple are zero, the code prints a message indicating that both items are zero and takes "action 2".
+If the tuple does not match either of these patterns, the code prints a message indicating that "all fine".
+*/
 fn main() {
     //imagine you get the point information from somewhere else
     let point = (0, 0);
