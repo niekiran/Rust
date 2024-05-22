@@ -1,6 +1,5 @@
-workspace = { members = ["tuple_pattern_matching_029"] }
 [package]
-name = "tuple_comparision_028"
+name = "tuple_pattern_matching_029"
 version = "0.1.0"
 edition = "2021"
 

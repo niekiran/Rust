@@ -3,9 +3,5 @@
 version = 3
 
 [[package]]
-name = "tuple_comparision_028"
-version = "0.1.0"
-
-[[package]]
 name = "tuple_pattern_matching_029"
 version = "0.1.0"
